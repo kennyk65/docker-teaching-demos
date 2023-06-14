@@ -16,7 +16,7 @@ description =   """
                 </head>
                 <body>  
                     <h3>A simple API using Flask</h3>
-                    <a href="http://localhost:5000/api?value=2">sample request</a>
+                    <a href="http://localhost:80/api?value=2">sample request http://--server--:--port--/api?value=2</a>
                 </body>
                 """
 				
